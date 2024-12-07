@@ -52,7 +52,7 @@ The automation process streamlines the export, transformation, and delivery of c
 - **SharePoint**: Centralized file storage and access.  
 - **Power Query**: Data extraction and transformation tool.  
 - **Excel**: Data loading, calculation, and formatting.  
-- **Scripting**: VBA and/or Power Automate for advanced formatting.
+- **Scripting**: VBA and Automate for advanced formatting.
 
 ---
 
